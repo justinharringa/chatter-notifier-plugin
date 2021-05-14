@@ -46,7 +46,7 @@
     <commons-io.version>2.4</commons-io.version>
     <commons-codec.version>1.4</commons-codec.version>
     <credentials.version>1.22</credentials.version>
-    <jackson-mapper-asl.version>1.9.2</jackson-mapper-asl.version>
+    <jackson-mapper-asl.version>1.9.13-atlassian-2</jackson-mapper-asl.version>
     <jersey.version>1.12</jersey.version>
     <jenkins.junit.version>1.8</jenkins.junit.version>
     <mockito.version>3.10.0</mockito.version>
